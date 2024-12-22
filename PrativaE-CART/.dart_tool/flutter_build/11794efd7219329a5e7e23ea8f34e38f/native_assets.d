@@ -1,0 +1,1 @@
+ C:\\Users\\prati\\OneDrive\\Documents\\GitHub\\flutter_projects\\PrativaE-CART\\.dart_tool\\flutter_build\\11794efd7219329a5e7e23ea8f34e38f\\native_assets.yaml: 
