@@ -1,0 +1,1 @@
+ C:\\Users\\prati\\OneDrive\\Documents\\GitHub\\flutter_projects\\Vague-India\\.dart_tool\\flutter_build\\d59f459ba9672b9ece5fb467bf45727b\\native_assets.yaml: 
